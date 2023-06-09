@@ -6,6 +6,7 @@ const NavBar = () => {
       <a> <hr /></a>
       <a href=""></a>
       <h1>hola como estas</h1>
+      <h1>asdasdas</h1>
     </nav>
   )
 }
