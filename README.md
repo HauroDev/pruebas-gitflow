@@ -13,6 +13,7 @@ Archivos que no se deben modificar:
 
 Comando para iniciar el proyecto
 ```bash
+npm install
 npm run dev
 ```
 
