@@ -15,6 +15,5 @@ Comando para iniciar el proyecto
 ```bash
 npm run dev
 ```
-- para
 
 pd: vayan agregando cosas que crean que falten avisando por github
