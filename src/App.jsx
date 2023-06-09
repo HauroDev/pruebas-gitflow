@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Testing gitflow</h1>
+      <h1>Testing gitflo</h1>
     </>
   )
 }
