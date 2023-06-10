@@ -13,12 +13,14 @@ function App() {
         <h1>Testing Site</h1>
         <NavBar />
       </header>
-      <Routes>
-        <Route path='/' element={<Landing />} />
-        <Route path='/about' element={<About />} />
-        <Route path='/favs' element={<Favs />} />
-        <Route path='/cart' element={<Cart />} />
-      </Routes>
+      <main>
+        <Routes>
+          <Route path='/' element={<Landing />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/favs' element={<Favs />} />
+          <Route path='/cart' element={<Cart />} />
+        </Routes>
+      </main>
     </>
   )
 }

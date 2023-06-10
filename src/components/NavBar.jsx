@@ -5,16 +5,16 @@ const NavBar = () => {
     <nav>
       <ul>
         <li>
-          <NavLink to='/'>Start</NavLink>
+          <NavLink to='/'>Inicio</NavLink>
         </li>
         <li>
-          <NavLink to='/about'>sobre esto</NavLink>
+          <NavLink to='/about'>About</NavLink>
         </li>
         <li>
-          <NavLink to='/favs'>FAvoritos</NavLink>
+          <NavLink to='/favs'>Favs</NavLink>
         </li>
         <li>
-          <NavLink to='/cart'>Carrito</NavLink>
+          <NavLink to='/cart'>Cart</NavLink>
         </li>
       </ul>
     </nav>

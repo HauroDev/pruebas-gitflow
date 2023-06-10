@@ -1,0 +1,27 @@
+.commit {
+  max-width: 300px;
+  padding: 10px;
+
+  border: 2px solid white;
+  border-radius: 30px;
+
+
+  & p {
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+
+.commits__container {
+  display: flex;
+
+
+  
+  overflow: auto;
+
+  margin: 10px;
+  margin-bottom: 50px;
+
+  justify-content: flex-start;
+  align-items: center;
+}
