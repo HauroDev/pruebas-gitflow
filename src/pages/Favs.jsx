@@ -1,5 +1,9 @@
 const Favs = ()=>{
-  return <></>
+  return <>
+    <div>
+    <h1>como estas</h1>
+    
+  </div></>
 }
 
 export default Favs
